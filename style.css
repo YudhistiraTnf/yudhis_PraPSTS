@@ -1,0 +1,23 @@
+<style>
+        h1 {
+            color: red;
+            text-align: center;
+        }
+        .contohclass{
+            color: blue;
+            text-align: center;
+            font-size: xx-large;
+        }
+        #contohid{
+            color: blanchedalmond;
+            text-align: center;
+            font-weight: bold;
+            font-size: medium;
+        }
+        input[type="text"] {
+            color: rgb(140, 255, 0);
+        }
+        input[type="number"] {
+            color: rgb(28, 97, 90);
+        }
+</style>
